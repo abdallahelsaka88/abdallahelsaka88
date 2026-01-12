@@ -1,5 +1,7 @@
 <div align="center" width="50">
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br> 
 
 <h1>Hi 👋, I'm Abdullah Mohamed</h1>
 <h3>Full-Stack Web Developer (Angular & .NET)</h3>
@@ -8,6 +10,12 @@
 I build modern, responsive, and scalable web applications  
 using Front-End & Back-End technologies.
 </p>
+
+<a href="https://www.linkedin.com/in/abdallah-elsaka-94b856277" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Mohamed-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange)
 
